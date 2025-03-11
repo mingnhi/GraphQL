@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Nguyen Van A",
+    "email": "abc@gmail.com",
+    "password": "12345678",
+    "gender": true,
+    "age": 30
+  },
+  {
+    "name": "Nguyen Van B",
+    "email": "abc@gmail.com",
+    "password": "12345678",
+    "gender": true,
+    "age": 30
+  },
+  {
+    "name": "Nguyen Van C",
+    "email": "abc@gmail.com",
+    "password": "12345678",
+    "gender": true,
+    "age": 30
+  },
+  {
+    "name": "Nguyen Van D",
+    "email": "abc@gmail.com",
+    "password": "12345678",
+    "gender": true,
+    "age": 30
+  }
+]
